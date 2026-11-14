@@ -1,0 +1,6 @@
+---
+description: Shared memory and privacy rules for this Obsidian vault
+alwaysApply: true
+---
+
+Read `AGENTS.md`, `00-索引/AI入口.md`, and `40-协作/当前进度.md` before starting. Use the data-layer index to load only task-relevant notes. Pull before editing when connected. Do not write secrets or personal notes to the shared repository, overwrite concurrent work, or delete/publish/change global configuration without owner approval. Record reusable, verified knowledge and its source; update progress or create a handoff when useful.

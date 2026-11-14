@@ -1,0 +1,1 @@
+Before working, read `AGENTS.md`, `00-索引/AI入口.md`, and `40-协作/当前进度.md`. Route to relevant notes using `00-索引/AI数据层.md`. Keep reusable knowledge non-sensitive, preserve existing content, inspect diffs, and do not delete, overwrite, publish, or change global configuration without owner approval.

@@ -1,0 +1,28 @@
+# Obsidian device-local settings and trash
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.trash/
+
+# Private notes and filled-in personal profiles
+/本地私有/
+/60-模板/*.local.md
+*.private.md
+*.local.md
+
+# Credentials and environment files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+secrets.*
+
+# Local/editor artifacts
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
